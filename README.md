@@ -1,7 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Prahalad singh</h1>
 <h3 align="center"></h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.c...​")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahaladsingh221&label=Profile%20views&color=0e75b6&style=flat" alt="prahaladsingh221" /> </p>
 

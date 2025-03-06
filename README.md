@@ -1,3 +1,6 @@
+   ![gif](https://github.com/user-attachments/assets/fd422f96-25a4-4e31-9b10-07a1f1ad284c)
+
+
 <h1 align="center">Hi 👋, I'm prahalad singh</h1>
 
 

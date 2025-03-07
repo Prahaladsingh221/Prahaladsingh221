@@ -6,6 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahaladsingh221&label=Profile%20views&color=0e75b6&style=flat" alt="prahaladsingh221" /> </p>
 
 
+ hii, i'm prahalad singh a  data enthusiast with a strong passion for turning raw data into meaningful insights.
+ building interactive dashboards, data modeling, 
+ and optimizing reports for business intelligence.
+
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prahalad singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prahalad singh" height="30" width="40" /></a>

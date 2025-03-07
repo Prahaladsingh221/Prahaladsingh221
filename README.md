@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahaladsingh221&label=Profile%20views&color=0e75b6&style=flat" alt="prahaladsingh221" /> </p>
 
 
- hii, i'm prahalad singh a  data enthusiast with a strong passion for turning raw data into meaningful insights.
+ hii, i'm prahalad singh a  data enthusiast with a strong passion for turning raw data into meaningful insights with POWER BI.
  building interactive dashboards, data modeling, 
  and optimizing reports for business intelligence.
 

@@ -1,18 +1,14 @@
-   ![gif](https://github.com/user-attachments/assets/fd422f96-25a4-4e31-9b10-07a1f1ad284c)
+![image](https://github.com/user-attachments/assets/c068a78f-b05f-420f-9abd-0dbd6a70d73c)   ![gif](https://github.com/user-attachments/assets/fd422f96-25a4-4e31-9b10-07a1f1ad284c)
 
 
-<h1 align="center">Hi 👋, I'm prahalad singh</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prahaladsingh221&label=Profile%20views&color=0e75b6&style=flat" alt="prahaladsingh221" /> </p>
-
-
- hii, i'm prahalad singh a  data enthusiast with a strong passion for turning raw data into meaningful insights with POWER BI. building interactive dashboards, data modeling, and optimizing reports for business intelligence.
+<h1 align="center">Hi there, I'm Prahalad Singh 👋</h1>
+ A  data enthusiast with a strong passion for turning raw data into meaningful insights with POWER BI. building interactive dashboards, data modeling, and optimizing reports for business intelligence.
 
  
 <br>
 <div>
  <div>
-  <img src="![haruhiro](https://github.com/user-attachments/assets/0339d24d-fd64-4b5c-8d88-a0687fc18179)">
+  <img src="./assets/images/haruhiro.png" align="left" width="200px">
   <p align="right">
 
    &nbsp;

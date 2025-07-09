@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c068a78f-b05f-420f-9abd-0dbd6a70d73c)   ![gif](https://github.com/user-attachments/assets/fd422f96-25a4-4e31-9b10-07a1f1ad284c)
+ ![gif](https://github.com/user-attachments/assets/fd422f96-25a4-4e31-9b10-07a1f1ad284c)
 
 
 <h1 align="center">Hi there, I'm Prahalad Singh 👋</h1>

@@ -8,7 +8,8 @@
 <br>
 <div>
  <div>
-  <img src="./assets/images/haruhiro.png" align="left" width="200px">
+  <img src="./assets/images/![haruhiro](https://github.com/user-attachments/assets/4e4bb519-10ef-4597-96a1-5375ef36f615)
+" align="left" width="200px">
   <p align="right">
 
    &nbsp;

@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Prahaladsingh221/Prahaladsingh221/blob/main/images/eyes.gif?raw=true" width="50%">
-</p>
-
+<img src="https://github.com/Prahaladsingh221/Prahaladsingh221/blob/main/images/eyes.gif?raw=true" width="100%" height="auto">
 
 
 

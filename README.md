@@ -1,5 +1,4 @@
-<img src="https://github.com/Prahaladsingh221/Prahaladsingh221/blob/main/images/eyes.gif?raw=true" width="100%" height="auto">
-
+<img src="https://github.com/Prahaladsingh221/Prahaladsingh221/blob/main/images/eyes-banner.gif?raw=true" width="100%">
 
 
 <h1 align="center">Hi there, I'm Prahalad Singh 👋</h1>

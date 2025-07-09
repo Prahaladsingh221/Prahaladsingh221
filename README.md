@@ -1,6 +1,7 @@
 <img src="https://github.com/Prahaladsingh221/Prahaladsingh221/blob/main/images/eyes-banner.gif?raw=true" width="100%">
 
 
+
 <h1 align="center">Hi there, I'm Prahalad Singh 👋</h1>
  A  data enthusiast with a strong passion for turning raw data into meaningful insights with POWER BI. building interactive dashboards, data modeling, and optimizing reports for business intelligence.
 

@@ -1,4 +1,4 @@
- ![gif](https://github.com/user-attachments/assets/fd422f96-25a4-4e31-9b10-07a1f1ad284c)
+<img src="https://github.com/Prahaladsingh221/Prahaladsingh221/blob/main/images/eyes.gif?raw=true">
 
 
 <h1 align="center">Hi there, I'm Prahalad Singh 👋</h1>

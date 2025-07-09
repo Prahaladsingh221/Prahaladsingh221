@@ -12,7 +12,7 @@
 <br>
 <div>
  <div>
-  <img src="./assets/images/haruhiro.png" align="left" width="200px">
+  <img src="![haruhiro](https://github.com/user-attachments/assets/0339d24d-fd64-4b5c-8d88-a0687fc18179)">
   <p align="right">
 
    &nbsp;

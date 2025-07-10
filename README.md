@@ -32,7 +32,8 @@
  </div>
 </div>
 
-<br>
+![Profile Views](https://komarev.com/ghpvc/?username=Prahaladsingh221&color=blue)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Prahaladsingh221&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

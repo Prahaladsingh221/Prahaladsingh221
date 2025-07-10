@@ -6,11 +6,13 @@
 <h1 align="center">Hi there, I'm Prahalad Singh 👋</h1>
  A  data enthusiast with a strong passion for turning raw data into meaningful insights with POWER BI. building interactive dashboards, data modeling, and optimizing reports for business intelligence.
 
+ 
+
 <br>
 <div>
  <div>
   <img src="https://github.com/Prahaladsingh221/Prahaladsingh221/blob/main/images/haruhiro.png?raw=true" align="left" width="200px">
-  <p align="right">z
+  <p align="right">
 
    &nbsp;
     
